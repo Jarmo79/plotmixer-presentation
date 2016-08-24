@@ -4,8 +4,12 @@ author: Jarmo Pesonen
 date: 24.8.2016
 autosize: true
 
-
 I am studying R and analytics, because of interest of working in this area. This is small app, which changes look of generated plot. 
+
+ui.R and server.R R codes can be found from GitHub, direct link to R source code repository 
+
+https://github.com/Jarmo79/plotmixer
+
 
 Plotmixer description
 ========================================================
@@ -43,9 +47,7 @@ randomizes placement of dot by adding random number to x and y value between 1 t
 possible to change plot dimensions. Any change in three different slidebars causes recalculation for
 placed dot.
 
-ui.R and server.R R codes can be found from GitHub, direct link here
 
-https://github.com/Jarmo79/plotmixer
 
 
 So, let's learn and start drawing some more plots!
